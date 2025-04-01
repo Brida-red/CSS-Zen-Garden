@@ -1,5 +1,11 @@
 /* Color Theme Swatches in Hex */
-.fundo { color: #9BA7BF; }
+/*
+.background { color: #9BA7BF; }
 .destaque { color: #607EA6; }
 .fonte { color: #23260F; }
 .background { color: #F2EFDF; }
+/*
+html {
+  background: #9BA7BF;
+  color: #23260F;
+}
